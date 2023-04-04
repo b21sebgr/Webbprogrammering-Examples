@@ -1,3 +1,0 @@
-App_Demo.html
-App_Demo_StoreCustomer.html
-App_Demo_SearchResource.html
